@@ -11,9 +11,9 @@
 + Try it out for yourself and see
 
 ## ⚒️ Installation
-- Go to the Repo ![Hacker_Theme](https://github.com/ImNotVarun/Hacker_Theme)
-- Click on the "Not_Varun.xaml" file and Click "Download" and copy the file.
+- Go to the Repo [Hacker_Theme](https://github.com/ImNotVarun/Hacker_Theme)
+- Click on the `Not_Varun.xaml` file and Click `Download` and copy the file.
 - Now open flow-launcher setting ->
-- Navigate to "Appearance Tab"
-- At the bottom click on the "Open Theme folder" and paste the file.
+- Navigate to `Appearance Tab`
+- At the bottom click on the `Open Theme folder` and paste the file.
 - Select theme on the Theme tab.
