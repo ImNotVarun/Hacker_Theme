@@ -17,3 +17,6 @@
 - Navigate to `Appearance Tab`
 - At the bottom click on the `Open Theme folder` and paste the file.
 - Select theme on the Theme tab.
+
+## Font use
+- Cosmic sans MS - Bold italic
